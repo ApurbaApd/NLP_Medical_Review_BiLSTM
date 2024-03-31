@@ -7,5 +7,5 @@ insights into patient experiences and feedback.
 
 ## Model Performance: 
 Precision = 0.853
-Recall on = 0.906
+Recall  = 0.906
 Accuracy = 0.875
